@@ -2,5 +2,6 @@
 
 int main(void) {
 	printf("lee dong\n");
-	return 0;
+        printf("lee jinho\n");	
+return 0;
 }
